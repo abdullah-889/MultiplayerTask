@@ -1,0 +1,14 @@
+
+# Unity
+/Library/
+/Temp/
+/Logs/
+/UserSettings/
+/obj/
+/Build/
+/Builds/
+*.idea
+*.vscode
+*.sln
+*.userprefs
+
